@@ -1,76 +1,67 @@
------BEGIN PGP PUBLIC KEY BLOCK-----
+==================================================================
+https://keybase.io/stanzheng
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stanzheng.com
+  * I am stanzheng (https://keybase.io/stanzheng) on keybase.
+  * I have a public key with fingerprint B214 A16C 920B 243D 1714  A6BB 2F0B 84DB 50BC 4AD5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b214a16c920b243d1714a6bb2f0b84db50bc4ad5",
+            "host": "keybase.io",
+            "key_id": "2f0b84db50bc4ad5",
+            "kid": "0101036e3221e3681d8205582d81c3a844f0d5d12f56562b5d68db50baabf1c0e0fd0a",
+            "uid": "c5c478e8f80e8364d99b1acaa6dc0800",
+            "username": "stanzheng"
+        },
+        "service": {
+            "hostname": "stanzheng.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423239297,
+    "expire_in": 157680000,
+    "prev": "1373bfc0ab0c38cce82f9f26c2a7a7ddea6c5acbb74078b5e8a90f5317ce5692",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v2.0.1
 Comment: https://keybase.io/crypto
 
-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
-=me0m
------END PGP PUBLIC KEY BLOCK-----
+yMIcAnicbZJZbExRGMdnqoO2ShsaElt6I0q65Jxz1xlpZUoRqS0qQUfG2W57Ve8d
+M7d7POBBCKENCVWRWOLB3jReJMrEVhIpbZDQB0E1HiwJEUI5d8KLyHk4+b7v//+d
+7zv5bmWP8WX6v44kPhX+vHLd/+DmogZf1eDIjjaJOKxFCrVJdTx1mZZdw+OxuGW7
+UkgiCCoYajSIAEGKzKAuYo0QZAJiKIyogFAFM1UqkmqdhOcQGIITvMRyRE4EUYuJ
+7H/0dakCgOLIGpcRglzWDMgMBFTVQMyAVMaGopiAqQwiU9VUDRGVaUYKgzExIQUc
+mAxggWtI4ahKFd3ghmkAbsiawoJBAjHFWGMUGAB4wgSP27ieC3XCxXZrLbdrpO1F
+kkg3WpR7f+CN8q+khDr1wh2LO65Dna2iVOu6sUTIs7otMU/bxEn0DyVKLJuJnxSO
+Rh5PWI4thaBQUtfysFBBMpKDKKgXSbw5ZsV51PIUqq6JJgHw3uGNAgllXSYmBZgA
+KhuUcgOZQRNpFGEd64xxrFEVU0J0BegGUbmBg8BUZahTrmpBJHlzbbMdKSSLNnGN
+N5FVY2O3Ic6l7ckbkXSfP9M3NpDm7YIvMyPn74YcOzNuNL/w6e2VG9jUtWvQnOHP
+ywMfJ0fMcdcD93a+edP1w//4QP/HJaXXlnRV5k0LNV38fiiv5WFzrrN0qKJoQVZp
+GuyDv+Z9nd42/e2+7r6McH+489uzke7582ffurq+4sPGsqrkcTj+dnh3es+qhyd7
+unPu5KyYNep/vWd/ElTOOTyctym/fMvA25a9ja0FQxcCy16F85ruv6vb9bqg6uUa
+tDkzeunFueSd4fQZ5VnRxUg6ce58RX311keRydXphcXRbYEp5T32YO9g8fN1p8oq
+eW+kvfPIlPYn1dGZe2a19md3Hl2d8fND7peFy4buZo0Ozu7IcN933B2YODf34PdJ
++8sunz00ofe09Bt6FyfQ
+=3pTO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stanzheng
+
+==================================================================
