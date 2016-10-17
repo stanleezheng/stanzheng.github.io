@@ -18,3 +18,14 @@ footer {
   text-align: center;
   padding: 2em;
 }
+
+
+.gallery-item {
+  align: center;
+	height: 400px;
+	overflow: hidden;
+}
+
+.gallery-item img {
+  text-align: center;
+}
